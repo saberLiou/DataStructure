@@ -1,0 +1,1 @@
+#define CHAR_TO_STRING(c) ((char[2]) {c, '\0'})
