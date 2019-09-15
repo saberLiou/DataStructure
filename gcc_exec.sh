@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash/env bash
 
 # Set output styles of echo by tput.
 RED=`tput setaf 1;`

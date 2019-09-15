@@ -6,13 +6,13 @@ Implement several concepts of data structure in **C**.
 
 You can use
 
-```shell
+```bash
 $ source gcc_exec.sh
 ```
 
 to add alias gcc command `gcc_exec` in the environment of your current shell, and use
 
-```shell
+```bash
 $ gcc_exec <filename-without-extension>
 ```
 
